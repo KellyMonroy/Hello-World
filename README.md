@@ -1,6 +1,7 @@
-# Project Title
-
-First repository
-Project Title
-Description
-Tools Used
+# Table of Contents
+PROJECT TITLE
+DESCRIPTION
+TOOLS USED
+FILES USED
+HOW TO RUN PROGRAM
+ADDITIONAL INFORMATION
