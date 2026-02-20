@@ -1,5 +1,5 @@
 # Hello-World
-##Heading1
+## Heading
 First repository
 Project Title
 Description
