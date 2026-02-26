@@ -1,4 +1,4 @@
-# `#RRGGBB`Hello-World
+# RRGGBB Hello-World
 First Repository
 
 ## Table of Contents
